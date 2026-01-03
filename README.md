@@ -73,6 +73,3 @@ A responsive, vanilla JavaScript weather app using OpenWeatherMap. Search by cit
 ## Acknowledgements
 - Weather data: OpenWeatherMap (Geocoding + Forecast APIs)
 - Background images: Pexels/Pixabay assets included in the project
-
-## License
-Choose a license (MIT is common for web demos) or leave unlicensed if you prefer.
